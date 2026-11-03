@@ -1,0 +1,16 @@
+PORTAL DA TERAPEUTA — VERSÃO PARA TABLET ANDROID
+
+1. Transfira o arquivo APK para o tablet.
+2. Toque no arquivo e autorize “Instalar apps desconhecidos” somente para o aplicativo usado para abrir o APK.
+3. Instale e abra “Portal da Terapeuta”.
+4. Na primeira abertura, crie a conta da terapeuta com uma senha exclusiva de no mínimo 12 caracteres.
+5. Cadastre apenas um paciente de teste. Salve, feche o aplicativo e entre novamente para confirmar que o registro reaparece.
+6. Crie um backup protegido, guarde o arquivo fora do tablet e use “Conferir backup”.
+7. Só depois desse teste use pacientes reais.
+
+IMPORTANTE
+- O aplicativo funciona sem internet e os prontuários ficam neste tablet.
+- Sair da conta ou fechar o aplicativo não apaga os dados.
+- Desinstalar o aplicativo, limpar seus dados ou perder o tablet pode apagar os prontuários. O backup externo é indispensável.
+- Não use admin/admin. A terapeuta cria a própria conta na primeira abertura.
+- O aplicativo bloqueia a sessão por inatividade e impede capturas de tela.

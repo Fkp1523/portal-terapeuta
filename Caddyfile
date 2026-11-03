@@ -1,0 +1,19 @@
+{$DOMAIN} {
+	encode zstd gzip
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+		Referrer-Policy "strict-origin-when-cross-origin"
+	}
+
+	@frontend path / /index.html /app.js /style.css
+	handle @frontend {
+		root * /srv
+		file_server
+	}
+
+	handle {
+		reverse_proxy api:3000
+	}
+}
