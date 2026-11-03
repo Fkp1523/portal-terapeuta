@@ -4,6 +4,14 @@ Sistema de gestão clínica criado para apoiar o trabalho de terapeutas ocupacio
 
 > Repositório de portfólio. Não contém prontuários, dados de pacientes, credenciais, backups, chaves de assinatura nem o banco utilizado em atendimentos.
 
+## Demonstração do front-end
+
+[Abrir o Portal da Terapeuta](https://portal-terapeuta-fernando.recentbadge4.chatgpt.site)
+
+- Usuário: `demo`
+- Senha: `Portfolio@2026`
+- Os dados exibidos são fictícios e as alterações são descartadas ao recarregar a página.
+
 ## Principais recursos
 
 - Cadastro e acompanhamento de pacientes
